@@ -6,7 +6,7 @@ import {
   AccordionItem,
 } from "./Accordion";
 
-const ScoreBadge = ({ score }: { score: number }) => {
+const ScoreBadge = ({ score }: { score: number }) => { // score includes
   return (
       <div
           className={cn(
