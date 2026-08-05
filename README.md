@@ -25,7 +25,7 @@
 
 ## <a name="introduction">✨ Introduction</a>
 
-An AI-powered Resume Analyzer built with React, React Router, and Puter.js. Upload resumes, match candidates to jobs using AI evaluations, and get custom feedback with ATS scores tailored to each job listing.
+An AI-powered Resume Analyzer built with React, React Router, and Puter.js. Upload resumes, match candidates to jobs using AI evaluations, and get custom feedback with ATS score tailored to each job listing.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
