@@ -6,6 +6,7 @@
   <br />
 
   <div>
+    <a href="https://github.com/Mati54866/ai-resume-analyzer/actions"><img src="https://github.com/Mati54866/ai-resume-analyzer/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" /></a>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
